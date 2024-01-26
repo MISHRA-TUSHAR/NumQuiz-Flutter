@@ -1,0 +1,42 @@
+name: numquiz
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.2 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+  font_awesome_flutter: ^10.6.0
+  pdf: ^3.10.7
+  printing: ^5.11.1
+  syncfusion_flutter_pdfviewer: ^24.1.47
+  universal_html: ^2.2.4
+  path_provider: ^2.1.2
+  modal_progress_hud_nsn: ^0.5.1
+  circular_countdown_timer: ^0.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/
