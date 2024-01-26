@@ -1,8 +1,25 @@
-# numquiz
+# NumQuiz Flutter
 
-A new Flutter project.
 
-## Getting Started
+NumQuiz Flutter is a versatile collection of mathematical functions and tools designed for a wide range of applications in Flutter. This project incorporates essential arithmetic operations, matrix manipulation, statistical computations, and unique features such as generating Multiple Choice Question (MCQ) PDFs, along with question PDFs that include answers. 
+
+## Features
+Basic arithmetic operations: Addition, subtraction, multiplication, division
+
+
+Matrix manipulation
+
+
+Statistical computations
+
+
+Generation of MCQ PDFs
+
+
+Generation of question PDFs with answers
+
+
+Quiz support
 
 This project is a starting point for a Flutter application.
 
