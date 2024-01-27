@@ -7,9 +7,6 @@ NumQuiz Flutter is a versatile collection of mathematical functions and tools de
 Basic arithmetic operations: Addition, subtraction, multiplication, division
 
 
-Matrix manipulation
-
-
 Statistical computations
 
 
